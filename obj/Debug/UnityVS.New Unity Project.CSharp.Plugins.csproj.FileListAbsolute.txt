@@ -1,0 +1,9 @@
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\LibNoise.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\TCParticlesDLL.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\obj\Debug\UnityVS.New Unity Project.CSharp.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Pyromuffin\Documents\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\obj\Debug\Assembly-CSharp-firstpass.pdb

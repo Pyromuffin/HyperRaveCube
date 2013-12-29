@@ -1,0 +1,14 @@
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor-firstpass.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor-firstpass.pdb
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\LibNoise.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\TCParticlesDLL.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.pdb
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Pyromuffin\Documents\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Pyromuffin\Documents\New Unity Project\obj\Debug\UnityVS.New Unity Project.CSharp.Editor.Plugins.csprojResolveAssemblyReference.cache
+C:\Users\Pyromuffin\Documents\New Unity Project\obj\Debug\Assembly-CSharp-Editor-firstpass.dll
+C:\Users\Pyromuffin\Documents\New Unity Project\obj\Debug\Assembly-CSharp-Editor-firstpass.pdb

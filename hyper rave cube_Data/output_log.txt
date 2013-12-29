@@ -1,0 +1,37 @@
+Initialize engine version: 4.1.2f1 (911c7369eeac)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0 TODO.dll]
+    Renderer: NVIDIA GeForce GTX 660 Ti
+    Vendor:   NVIDIA
+    VRAM:     1966 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\TCParticlesDLL.dll (this message is harmless)
+Loading C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\TCParticlesDLL.dll into Unity Child Domain
+Platform assembly: C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\LibNoise.dll (this message is harmless)
+Loading C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\LibNoise.dll into Unity Child Domain
+- Completed reload, in  0.033 seconds
+desktop: 1920x1080 59Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\System.dll (this message is harmless)
+The file 'C:/Users/Pyromuffin/Documents/New Unity Project/hyper rave cube_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 31124 > 31120]
+ 
+(Filename:  Line: 276)
+
+The file 'C:/Users/Pyromuffin/Documents/New Unity Project/hyper rave cube_Data/mainData' is corrupted! Remove it and launch unity again!
+[Position out of bounds! 32060 > 32056]
+ 
+(Filename:  Line: 276)
+
+Platform assembly: C:\Users\Pyromuffin\Documents\New Unity Project\hyper rave cube_Data\Managed\Boo.Lang.dll (this message is harmless)
